@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(0,0,25);
+}
+
+.header{
+    margin: auto;
+    height: 100px;
+    width: 100%;
+
+    /*border: 1px solid white;*/
+}
+
+.title{
+    position: absolute;
+    left: 42%;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.corpo{
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    border: 1px solid white
+}
